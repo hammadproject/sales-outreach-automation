@@ -1,6 +1,7 @@
 # AI-Sales-Outreach-Automation
 
-### 👉 Dive into the full article: [**AI Agents + LangGraph: The Winning Formula for Sales Outreach Automation**](https://dev.to/kaymen99/how-ai-automation-can-transform-your-sales-outreach-strategy-aop)  
+### 👉 Dive into the full article: [**AI Agents + LangGraph: The Winning Formula for Sales Outreach Automation**]  
+<img width="1366" height="512" alt="image" src="https://github.com/user-attachments/assets/5bc7df3e-3f69-4b2e-86fe-b1ee8afdb350" />
 
 ![outreach-automation](https://github.com/user-attachments/assets/2685ef70-ab9f-4177-9b2a-71086f79726b)
 
